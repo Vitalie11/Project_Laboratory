@@ -1,0 +1,39 @@
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 32em
+}
+body {
+    background-color: lightblue;}/*tipa backgroundu-l la pagina*/
+    
+  body
+  {
+      padding: 0%;
+      margin: 0%;
+  }
+  #center {
+
+    text-align: center;
+    
+    }
+    body {
+        background-image: url("https://wallpapercave.com/wp/wp3215788.jpg");/*Punem Linku-l la imagine*/
+    }
+    .container { /*Acesta cred ca textul sa fie in mijloc*/
+        height: 95%;
+        width: 100%;
+        display: flex;
+        position: fixed;
+        align-items: center;
+        justify-content: center;
+    }
+
+    div.a {
+        text-align: center;
+      }
+      p {
+       
+        margin-bottom: 20px;
+        margin-left: 20px;
+        
+      }
